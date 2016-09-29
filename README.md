@@ -6,6 +6,6 @@
 2. `mvn jetty:run`
 3. 访问：`localhost:7070/maven-springmvc-freemarker`
 ## FAQ
-1. 支持 freemarker velocity 等模板引擎的集成
+支持 freemarker velocity 等模板引擎的集成
 ## 导入Eclipse
-1. `Import - Maven - OK`
+`Import - Maven - OK`
