@@ -5,7 +5,7 @@
 1. `cd maven-springmvc-freemarker`
 2. `mvn jetty:run`
 3. open `localhost:7070/maven-springmvc-freemarker`
-## FAQ
+## other
 Support freemarker velocity
 ## Eclipse Import
 `Import - Maven - OK`
