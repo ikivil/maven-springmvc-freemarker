@@ -140,6 +140,7 @@ public class NewsController {
 	}
 
 	//path 不存在则失败
+	@SuppressWarnings("unused")
 	private boolean createHtml(String str, String filePath, boolean flag) {
 		boolean r = false;
 		File writeFile = new File(filePath);
